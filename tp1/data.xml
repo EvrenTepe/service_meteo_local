@@ -1,0 +1,80 @@
+<villes>
+  <ville>
+    <nom>Genève</nom>
+    <codePays>CH</codePays>
+    <lat>46.2044</lat>
+    <lon>6.1432</lon>
+  </ville>
+
+  <ville>
+    <nom>Zurich</nom>
+    <codePays>CH</codePays>
+    <lat>47.3769</lat>
+    <lon>8.5417</lon>
+  </ville>
+
+  <ville>
+    <nom>Paris</nom>
+    <codePays>FR</codePays>
+    <lat>48.8566</lat>
+    <lon>2.3522</lon>
+  </ville>
+
+  <ville>
+    <nom>Lyon</nom>
+    <codePays>FR</codePays>
+    <lat>45.7640</lat>
+    <lon>4.8357</lon>
+  </ville>
+
+  <ville>
+    <nom>Toulouse</nom>
+    <codePays>FR</codePays>
+    <lat>43.6047</lat>
+    <lon>1.4442</lon>
+  </ville>
+
+  <ville>
+    <nom>Istanbul</nom>
+    <codePays>TR</codePays>
+    <lat>41.0082</lat>
+    <lon>28.9784</lon>
+  </ville>
+
+  <ville>
+    <nom>Ankara</nom>
+    <codePays>TR</codePays>
+    <lat>39.9334</lat>
+    <lon>32.8597</lon>
+  </ville>
+
+  <ville>
+    <nom>Berlin</nom>
+    <codePays>DE</codePays>
+    <lat>52.5200</lat>
+    <lon>13.4050</lon>
+  </ville>
+
+  <ville>
+    <nom>Rome</nom>
+    <codePays>IT</codePays>
+    <lat>41.9028</lat>
+    <lon>12.4964</lon>
+  </ville>
+
+  <ville>
+    <nom>Madrid</nom>
+    <codePays>ES</codePays>
+    <lat>40.4168</lat>
+    <lon>-3.7038</lon>
+  </ville>
+
+  <ville>
+    <nom>Amsterdam</nom>
+    <codePays>NL</codePays>
+    <lat>52.3676</lat>
+    <lon>4.9041</lon>
+  </ville>
+
+</villes>
+

@@ -1,0 +1,278 @@
+{
+  "meteo": [
+    {
+      "ville": "Genève",
+      "codePays": "CH",
+      "date": "2025-10-21",
+      "matin": { "temp": 12.4, "ressentie": 11.8 },
+      "soir": { "temp": 9.8, "ressentie": 8.9 },
+      "conditions": "Nuageux",
+      "humidite": 62
+    },
+    {
+      "ville": "Zurich",
+      "codePays": "CH",
+      "date": "2025-10-21",
+      "matin": { "temp": 11.1, "ressentie": 10.5 },
+      "soir": { "temp": 8.2, "ressentie": 7.0 },
+      "conditions": "Pluie",
+      "humidite": 74
+    },
+    {
+      "ville": "Paris",
+      "codePays": "FR",
+      "date": "2025-10-21",
+      "matin": { "temp": 14.0, "ressentie": 13.2 },
+      "soir": { "temp": 12.1, "ressentie": 11.7 },
+      "conditions": "Partiellement nuageux",
+      "humidite": 67
+    },
+    {
+      "ville": "Lyon",
+      "codePays": "FR",
+      "date": "2025-10-21",
+      "matin": { "temp": 13.2, "ressentie": 12.6 },
+      "soir": { "temp": 10.3, "ressentie": 9.6 },
+      "conditions": "Ensoleillé",
+      "humidite": 55
+    },
+    {
+      "ville": "Istanbul",
+      "codePays": "TR",
+      "date": "2025-10-21",
+      "matin": { "temp": 17.5, "ressentie": 17.0 },
+      "soir": { "temp": 15.2, "ressentie": 14.5 },
+      "conditions": "Pluie",
+      "humidite": 78
+    },
+    {
+      "ville": "Ankara",
+      "codePays": "TR",
+      "date": "2025-10-21",
+      "matin": { "temp": 11.8, "ressentie": 11.0 },
+      "soir": { "temp": 8.6, "ressentie": 7.9 },
+      "conditions": "Ciel dégagé",
+      "humidite": 52
+    },
+    {
+      "ville": "Berlin",
+      "codePays": "DE",
+      "date": "2025-10-21",
+      "matin": { "temp": 9.7, "ressentie": 8.5 },
+      "soir": { "temp": 6.9, "ressentie": 5.8 },
+      "conditions": "Brouillard",
+      "humidite": 81
+    },
+    {
+      "ville": "Rome",
+      "codePays": "IT",
+      "date": "2025-10-21",
+      "matin": { "temp": 16.5, "ressentie": 16.0 },
+      "soir": { "temp": 13.9, "ressentie": 13.4 },
+      "conditions": "Ensoleillé",
+      "humidite": 59
+    },
+    {
+      "ville": "Madrid",
+      "codePays": "ES",
+      "date": "2025-10-21",
+      "matin": { "temp": 15.2, "ressentie": 14.7 },
+      "soir": { "temp": 12.4, "ressentie": 11.9 },
+      "conditions": "Partiellement nuageux",
+      "humidite": 50
+    },
+    {
+      "ville": "Amsterdam",
+      "codePays": "NL",
+      "date": "2025-10-21",
+      "matin": { "temp": 10.5, "ressentie": 9.8 },
+      "soir": { "temp": 7.6, "ressentie": 6.9 },
+      "conditions": "Pluie",
+      "humidite": 76
+    },
+
+    {
+      "ville": "Genève",
+      "codePays": "CH",
+      "date": "2025-10-22",
+      "matin": { "temp": 10.9, "ressentie": 10.2 },
+      "soir": { "temp": 8.1, "ressentie": 7.3 },
+      "conditions": "Brouillard",
+      "humidite": 70
+    },
+    {
+      "ville": "Zurich",
+      "codePays": "CH",
+      "date": "2025-10-22",
+      "matin": { "temp": 10.3, "ressentie": 9.9 },
+      "soir": { "temp": 7.5, "ressentie": 6.8 },
+      "conditions": "Pluie légère",
+      "humidite": 77
+    },
+    {
+      "ville": "Toulouse",
+      "codePays": "FR",
+      "date": "2025-10-22",
+      "matin": { "temp": 13.1, "ressentie": 12.7 },
+      "soir": { "temp": 10.9, "ressentie": 10.1 },
+      "conditions": "Nuageux",
+      "humidite": 69
+    },
+    {
+      "ville": "Lyon",
+      "codePays": "FR",
+      "date": "2025-10-22",
+      "matin": { "temp": 12.6, "ressentie": 11.8 },
+      "soir": { "temp": 9.8, "ressentie": 9.0 },
+      "conditions": "Ensoleillé",
+      "humidite": 53
+    },
+    
+    {
+      "ville": "Istanbul",
+      "codePays": "TR",
+      "date": "2025-10-22",
+      "matin": { "temp": 18.1, "ressentie": 17.5 },
+      "soir": { "temp": 14.9, "ressentie": 14.3 },
+      "conditions": "Orage",
+      "humidite": 80
+    },
+    {
+      "ville": "Ankara",
+      "codePays": "TR",
+      "date": "2025-10-22",
+      "matin": { "temp": 12.3, "ressentie": 11.7 },
+      "soir": { "temp": 9.1, "ressentie": 8.4 },
+      "conditions": "Vent modéré",
+      "humidite": 49
+    },
+    {
+      "ville": "Berlin",
+      "codePays": "DE",
+      "date": "2025-10-22",
+      "matin": { "temp": 8.9, "ressentie": 8.2 },
+      "soir": { "temp": 6.0, "ressentie": 5.1 },
+      "conditions": "Brouillard",
+      "humidite": 83
+    },
+    {
+      "ville": "Rome",
+      "codePays": "IT",
+      "date": "2025-10-22",
+      "matin": { "temp": 17.2, "ressentie": 16.8 },
+      "soir": { "temp": 14.1, "ressentie": 13.6 },
+      "conditions": "Ciel dégagé",
+      "humidite": 58
+    },
+    {
+      "ville": "Madrid",
+      "codePays": "ES",
+      "date": "2025-10-22",
+      "matin": { "temp": 14.8, "ressentie": 14.3 },
+      "soir": { "temp": 11.9, "ressentie": 11.2 },
+      "conditions": "Nuageux",
+      "humidite": 51
+    },
+
+    {
+      "ville": "Amsterdam",
+      "codePays": "NL",
+      "date": "2025-10-22",
+      "matin": { "temp": 9.8, "ressentie": 9.2 },
+      "soir": { "temp": 7.0, "ressentie": 6.4 },
+      "conditions": "Pluie",
+      "humidite": 79
+    },
+
+    {
+      "ville": "Genève",
+      "codePays": "CH",
+      "date": "2025-10-23",
+      "matin": { "temp": 9.7, "ressentie": 9.1 },
+      "soir": { "temp": 6.5, "ressentie": 5.9 },
+      "conditions": "Pluie légère",
+      "humidite": 73
+    },
+    {
+      "ville": "Zurich",
+      "codePays": "CH",
+      "date": "2025-10-23",
+      "matin": { "temp": 9.4, "ressentie": 8.9 },
+      "soir": { "temp": 6.8, "ressentie": 6.1 },
+      "conditions": "Brouillard",
+      "humidite": 75
+    },
+    {
+      "ville": "Paris",
+      "codePays": "FR",
+      "date": "2025-10-23",
+      "matin": { "temp": 12.0, "ressentie": 11.5 },
+      "soir": { "temp": 9.3, "ressentie": 8.7 },
+      "conditions": "Partiellement nuageux",
+      "humidite": 68
+    },
+    {
+      "ville": "Lyon",
+      "codePays": "FR",
+      "date": "2025-10-23",
+      "matin": { "temp": 11.7, "ressentie": 11.0 },
+      "soir": { "temp": 8.9, "ressentie": 8.1 },
+      "conditions": "Ensoleillé",
+      "humidite": 56
+    },
+    {
+      "ville": "Istanbul",
+      "codePays": "TR",
+      "date": "2025-10-23",
+      "matin": { "temp": 17.0, "ressentie": 16.4 },
+      "soir": { "temp": 14.0, "ressentie": 13.4 },
+      "conditions": "Ciel dégagé",
+      "humidite": 72
+    },
+    {
+      "ville": "Ankara",
+      "codePays": "TR",
+      "date": "2025-10-23",
+      "matin": { "temp": 11.5, "ressentie": 10.8 },
+      "soir": { "temp": 8.3, "ressentie": 7.5 },
+      "conditions": "Vent léger",
+      "humidite": 47
+    },
+    {
+      "ville": "Berlin",
+      "codePays": "DE",
+      "date": "2025-10-23",
+      "matin": { "temp": 8.2, "ressentie": 7.6 },
+      "soir": { "temp": 5.7, "ressentie": 4.9 },
+      "conditions": "Brouillard",
+      "humidite": 84
+    },
+    {
+      "ville": "Rome",
+      "codePays": "IT",
+      "date": "2025-10-23",
+      "matin": { "temp": 16.1, "ressentie": 15.7 },
+      "soir": { "temp": 13.5, "ressentie": 13.0 },
+      "conditions": "Partiellement nuageux",
+      "humidite": 61
+    },
+    {
+      "ville": "Madrid",
+      "codePays": "ES",
+      "date": "2025-10-23",
+      "matin": { "temp": 14.3, "ressentie": 13.7 },
+      "soir": { "temp": 11.4, "ressentie": 10.8 },
+      "conditions": "Ensoleillé",
+      "humidite": 48
+    },
+    {
+      "ville": "Amsterdam",
+      "codePays": "NL",
+      "date": "2025-10-23",
+      "matin": { "temp": 9.1, "ressentie": 8.4 },
+      "soir": { "temp": 6.6, "ressentie": 5.9 },
+      "conditions": "Pluie",
+      "humidite": 77
+    }
+  ]
+}

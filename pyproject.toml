@@ -1,0 +1,26 @@
+[tool.poetry]
+name = "mashup_meteo"
+version = "0.1.0"
+description = "Service local de mashup météo (TP1 – JSON / XML / JSON)"
+authors = ["Evren Tepe <evren.tepe@etu.unige.ch>"]
+
+packages = [
+  { include = "tp1" }
+]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+# Requests est inclus pour compatibilité future (TP2 avec API)
+requests = "^2.28.1"
+
+[tool.poetry.group.dev.dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
+
+# Les scripts de lancement via 'poetry run ...'
+[tool.poetry.scripts]
+tp1_json = "tp1.main_json:main"
+tp1_xml = "tp1.main_xml:main"
+tp1_fusion = "tp1.main:main"

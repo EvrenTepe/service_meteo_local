@@ -1,0 +1,48 @@
+{
+  "conseils": [
+    {
+      "conditions": "Ensoleillé",
+      "message": "Portez des lunettes de soleil et restez hydraté."
+    },
+    {
+      "conditions": "Nuageux",
+      "message": "Une veste légère pourrait être utile."
+    },
+    {
+      "conditions": "Partiellement nuageux",
+      "message": "Temps variable, prévoyez des vêtements superposés."
+    },
+    {
+      "conditions": "Pluie",
+      "message": "N'oubliez pas votre parapluie !"
+    },
+    {
+      "conditions": "Pluie légère",
+      "message": "Une pluie fine est prévue, prenez un imperméable."
+    },
+    {
+      "conditions": "Orage",
+      "message": "Restez à l'abri pendant les éclairs et évitez les zones découvertes."
+    },
+    {
+      "conditions": "Neige",
+      "message": "Mettez des chaussures antidérapantes et restez au chaud."
+    },
+    {
+      "conditions": "Brouillard",
+      "message": "La visibilité est réduite, soyez prudent sur la route."
+    },
+    {
+      "conditions": "Ciel dégagé",
+      "message": "Profitez du ciel clair, mais prévoyez une couche si la soirée est fraîche."
+    },
+    {
+      "conditions": "Vent modéré",
+      "message": "Le vent peut être gênant, sécurisez les objets légers."
+    },
+    {
+      "conditions": "Vent léger",
+      "message": "Une brise légère, ambiance agréable."
+    }
+  ]
+}
