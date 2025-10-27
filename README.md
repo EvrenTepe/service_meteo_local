@@ -1,4 +1,4 @@
-# 🌤️ Service Météo – Fusion de données JSON et XML
+# 🌤️ Service Météo Local
 
 Projet développé dans le cadre du cours **Mashup, contextualisation et qualité des services**  
 Université de Genève – Centre Universitaire d’Informatique (CUI)  
