@@ -28,6 +28,6 @@ Le programme principal (`main.py`) permet d’exécuter différents scénarios d
 
 ### Étapes d’installation
 ```bash
-git clone <votre_repo_git>
+git clone https://github.com/EvrenTepe/service_meteo_local.git
 cd service-meteo
 poetry install
